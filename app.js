@@ -13,7 +13,7 @@
         isAdmin: true
     }
     // TODO: Zadania dla Ciebie:
-    // 1. Dla każdej właściwości stwórz zmieną która będzie przechowywwać jej wartość
+    // 1. Dla każdej właściwości obiektu user stwórz zmieną która będzie przechowywwać jej wartość
     // 2. Stwórz warunke który wyświetli w konsoli adres email jeżeli użytkownik posiada uprawnienie do kopiowania.
     // Zadanie dodatkowe:
     // 3. Zmień nazwę buttona 'Sign up' na nazwę użytkownika.
